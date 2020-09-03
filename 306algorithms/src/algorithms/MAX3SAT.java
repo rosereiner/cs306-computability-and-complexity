@@ -2,6 +2,9 @@ package algorithms;
 
 import java.util.ArrayList;
 import java.util.Random;
+/**
+@author Rose Reiner
+*/
 
 public class MAX3SAT {
 	
