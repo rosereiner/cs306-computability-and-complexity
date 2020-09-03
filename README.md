@@ -4,7 +4,7 @@ This is a repository to hold all work from Skidmore College's CS306 Computabilit
 1. 306algorithms
    # My final project for CS306. Implement several Maximum 0-1 knapsack algorithms and SAT algorithms, which include
       * a. CS305 Dynamic Programming Maximum 0-1 Knapsack Algorithm    
-      *b. Greedy 2-Approximation Algorithm
+      ** b. Greedy 2-Approximation Algorithm
       *c. MinCost Algorithm
       * d. FPTAS Algorithm
       * e. GSAT Algorithm
